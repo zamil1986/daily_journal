@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "skipped-heading",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-11-19T02:31:53.474Z",
+        "reason": "Claude: user asked for an exact replica of the site in their video; headings and sizes copied verbatim from the video's source code"
+      },
+      {
+        "rule": "flat-type-hierarchy",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-11-19T02:31:53.506Z",
+        "reason": "Claude: user asked for an exact replica of the site in their video; headings and sizes copied verbatim from the video's source code"
+      }
+    ]
+  }
+}
